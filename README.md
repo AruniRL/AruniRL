@@ -1,20 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aruni </h1>
+<h3 align="center">Aspiring Software Engineer | Javascript | Java | NodeJs | ReactJs | UI/UX Explorer | QA Explorer</h3>
 
-<!--
-**AruniRL/AruniRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 
-Here are some ideas to get you started:
+- 🎓 Graduate in Software Engineering from Plymouth University  
+- 🎓 Currently pursuing an MSc in Computer Science at the University of Sri Jayewardenepura  
+- 🔭 Currently working on a **Java-based Airline Ticket Booking System**  
+- 🌱 Learning **Flutter | IOT**  
+- 📫 Reach me: **aruniliyanage617@gmail.com**  
+- 💬 Ask me about **Javascript, SQL, UI/UX, Web & Mobile App Dev**  
+- ⚡ Fun fact: I love debugging and building clean, user-friendly interfaces!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Aruni</h1>
-<h3 align="center">Aspiring Software Engineer | Javascript Developer | Java Developer | UI/UX</h3>
-- 🌱 I’m currently learning **Flutter & Microsoft PowerBI**
-- ⚡ Fun fact: I love debugging more than writing fresh code 😄
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+---
+
+
+
+---
+
+
+---
+
+
