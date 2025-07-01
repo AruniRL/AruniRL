@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Aruni</h1>
+<h3 align="center">Aspiring Software Engineer | Javascript Developer | Java Developer | UI/UX</h3>
+- 🌱 I’m currently learning **Flutter & Microsoft PowerBI**
+- ⚡ Fun fact: I love debugging more than writing fresh code 😄
